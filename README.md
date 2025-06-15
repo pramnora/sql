@@ -10,6 +10,14 @@ Structure Query Language
 
 SQL/Structured Query Language, is used as a database query language.
 
+SQL, has a number of different variations, including:-
+
+- MSSQL  
+- mySQL  
+- SQLite  
+- PostgreSQL  
+- Etc.
+  
 -----
 
 ## LINKS
