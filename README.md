@@ -1,5 +1,5 @@
 # sql
-Structure Query Language
+Structured Query Language
 
 **Created**: *Sun 15th June 2025 15:36 PM GMT*  
 **Updated**: *Sun 15th June 2025 15:36 PM GMT*  
