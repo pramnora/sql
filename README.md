@@ -32,8 +32,12 @@ W3Schools SQL Tutorial
  
 ## Tutorials
 
-LearnSQL (it's a paying site...; but, they also have a FREE introductory tutorial)   
+LearnSQL (It's a paying site...; but, they also have a FREE introductory tutorial.  
+Plus, one can also sign up using one's student email.   
+They also have a number of FREE resource guides/-etc.)      
 - https://learnsql.com  
+- https://learnsql.com/blog/sql-primer/sql-primer.pdf  
+- https://learnsql.com/blog/best-way-to-learn-sql/  
 
 -----
 
