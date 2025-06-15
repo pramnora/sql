@@ -15,7 +15,10 @@ SQL, has a number of different variations, including:-
 - MSSQL  
 - mySQL  
 - SQLite  
+- Oracle  
 - PostgreSQL  
+- SQL Server  
+- TSQL  
 - Etc.
   
 -----
