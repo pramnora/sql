@@ -39,6 +39,9 @@ They also have a number of FREE resource guides/-etc.)
 - https://learnsql.com/blog/sql-primer/sql-primer.pdf  
 - https://learnsql.com/blog/best-way-to-learn-sql/  
 
+DataCamp  
+- https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start  
+
 -----
 
 ## YouTube Videos
