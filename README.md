@@ -32,7 +32,7 @@ W3Schools SQL Tutorial
  
 ## Tutorials
 
-LearnSQL  
+LearnSQL (it's a paying site...; but, they also have a FREE introductory tutorial)   
 - https://learnsql.com  
 
 -----
