@@ -10,11 +10,15 @@ Structure Query Language
 
 SQL/Structured Query Language, is used as a database query language.
 
+-----
+
 ## LINKS
 
 W3Schools SQL Tutorial  
 - https://www.w3schools.com/sql/default.asp
  
+-----
+
 ## YouTube Videos
 
 - 
