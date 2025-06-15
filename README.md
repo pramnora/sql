@@ -27,7 +27,14 @@ SQL, has a number of different variations, including:-
 
 W3Schools SQL Tutorial  
 - https://www.w3schools.com/sql/default.asp
+
+-----
  
+## Tutorials
+
+LearnSQL  
+- https://learnsql.com  
+
 -----
 
 ## YouTube Videos
