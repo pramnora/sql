@@ -12,14 +12,15 @@ SQL/Structured Query Language, is used as a database query language.
 
 SQL, has a number of different variations, including:-
 
+- IBM DB2  
 - MSSQL  
 - mySQL  
-- SQLite  
 - Oracle DB   
 - PostgreSQL  
+- SQLite  
 - SQL Server  
 - TSQL  
-- Etc.
+- etc.
   
 -----
 
