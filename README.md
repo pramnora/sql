@@ -47,5 +47,8 @@ DataCamp
 ## YouTube Videos
 
 SQL Full Course 2025 | Complete SQL Course For Beginners | Learn SQL in 11 Hours | Intellipaat    
-- https://www.youtube.com/watch?v=R2fQ5-PMju0  
+- https://www.youtube.com/watch?v=R2fQ5-PMju0
+  
+Do THIS instead of watching endless tutorials - how I’d learn SQL FAST still in 2025 - (Channel: Agatha)     
+- https://www.youtube.com/watch?v=ITwW825L4zg  
 
