@@ -11,7 +11,12 @@ One version of SQL/Structured Query Language database is called, SQLite.
 
 - SQLite, is one of most highly popular SQL database versions...;  
   which is often used for 'amateur' projects...;  
-  as opposed to creating professsional enterprise based projects.   
+  as opposed to creating professsional large enterprise based projects.
+
+  Here is a quote from the official, SQLite.org, web site:  
+  >>>  
+   SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day. More Information...
+  <<<     
 
 - SQLite, is automatically bundled with Python version 3 programming language;  
   and, therefore, is available to use immediately straight way right out of the box;  
