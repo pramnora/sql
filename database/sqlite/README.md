@@ -28,7 +28,8 @@ One version of SQL/Structured Query Language database is called, SQLite.
 
 ### Official web site...
 
-- https://sqlite.org/
+- https://sqlite.org/  
+- https://sqlite.org/docs.html  
 
 ### Write/Run/Test SQL codes
 
