@@ -2,7 +2,7 @@
 Structured Query Language
 
 **Created**: *Sun 15th June 2025 15:36 PM GMT*  
-**Updated**: *Wed 18th June 2025 11:41 PM GMT*  
+**Updated**: *Fri 20th June 2025 16:12 PM GMT*  
 
 -----
 
@@ -28,6 +28,10 @@ SQL, has a number of different variations, including:-
 
 W3Schools SQL Tutorial  
 - https://www.w3schools.com/sql/default.asp
+
+MySql  
+- https://www.mysql.com  
+- https://dev.mysql.com  
 
 -----
  
