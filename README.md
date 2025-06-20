@@ -32,6 +32,7 @@ W3Schools SQL Tutorial
 MySql  
 - https://www.mysql.com
 - https://www.mysql.com/downloads/
+- https://dev.mysql.com/doc/refman/8.4/en/linux-installation-apt-repo.html  
 - https://dev.mysql.com/doc/  
 - https://dev.mysql.com
 - https://www.oracle.com/mysql/technologies/mysql-enterprise-edition-downloads.html  
@@ -45,7 +46,7 @@ Plus, one can also sign up using one's student email.
 They also have a number of FREE resource guides/-etc.)      
 - https://learnsql.com  
 - https://learnsql.com/blog/sql-primer/sql-primer.pdf  
-- https://learnsql.com/blog/best-way-to-learn-sql/  
+- https://learnsql.com/blog/best-way-to-learn-sql/
 
 DataCamp  
 - https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start  
