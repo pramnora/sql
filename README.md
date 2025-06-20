@@ -37,6 +37,9 @@ MySql
 - https://dev.mysql.com
 - https://www.oracle.com/mysql/technologies/mysql-enterprise-edition-downloads.html  
 
+- Visual Paradigm  
+- https://www.visual-paradigm.com  
+
 -----
  
 ## Tutorials
