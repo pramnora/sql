@@ -51,6 +51,20 @@ They also have a number of FREE resource guides/-etc.)
 DataCamp  
 - https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start  
 
+Udemy
+
+Rakesh Gopalakrishnan (FREE courses)  
+
+Learn advanced T-SQL Querying concepts. Go from a beginner SQL programmer to writing complex SQL Queries.  
+
+- https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/learn/lecture/3452908?components=add_to_cart%2Cbase_purchase_section%2Cbuy_button%2Ccacheable_buy_button%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Clifetime_access_context%2Cprice_text%2Cpurchase%2Cpurchase_tabs_context%2Crecommendation%2Credeem_coupon%2Cone_click_checkout&kw=advanced+databases+and+sql&src=sac#overview
+
+A step by step introduction to the concept of Databases and Introduction to SQL Querying.  
+
+- https://www.udemy.com/course/introduction-to-databases-and-sql-querying/learn/lecture/7519566?components=add_to_cart%2Cbase_purchase_section%2Cbuy_button%2Ccacheable_buy_button%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Clifetime_access_context%2Cprice_text%2Cpurchase%2Cpurchase_tabs_context%2Crecommendation%2Credeem_coupon%2Cone_click_checkout#overview
+
+- 
+
 -----
 
 ## YouTube Videos
