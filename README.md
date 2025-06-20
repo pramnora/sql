@@ -33,7 +33,8 @@ MySql
 - https://www.mysql.com
 - https://www.mysql.com/downloads/
 - https://dev.mysql.com/doc/  
-- https://dev.mysql.com  
+- https://dev.mysql.com
+- https://www.oracle.com/mysql/technologies/mysql-enterprise-edition-downloads.html  
 
 -----
  
