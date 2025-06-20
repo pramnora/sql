@@ -37,7 +37,7 @@ MySql
 - https://dev.mysql.com
 - https://www.oracle.com/mysql/technologies/mysql-enterprise-edition-downloads.html  
 
-- Visual Paradigm (diagramming databases)     
+Visual Paradigm (diagramming databases)     
 - https://www.visual-paradigm.com
 - https://www.visual-paradigm.com/tutorials/  
 
