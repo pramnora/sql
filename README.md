@@ -30,7 +30,9 @@ W3Schools SQL Tutorial
 - https://www.w3schools.com/sql/default.asp
 
 MySql  
-- https://www.mysql.com  
+- https://www.mysql.com
+- https://www.mysql.com/downloads/
+- https://dev.mysql.com/doc/  
 - https://dev.mysql.com  
 
 -----
