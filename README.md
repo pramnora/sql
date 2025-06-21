@@ -2,7 +2,7 @@
 Structured Query Language
 
 **Created**: *Sun 15th June 2025 15:36 PM GMT*  
-**Updated**: *Fri 20th June 2025 16:12 PM GMT*  
+**Updated**: *Sat 21st June 2025 00:58 AM GMT*  
 
 -----
 
@@ -76,6 +76,9 @@ A step by step introduction to the concept of Databases and Introduction to SQL 
 
 SQL - Introduction (Channel: w3schools.com)  
 - https://www.youtube.com/watch?v=zpnHsWOy0RY&list=PLP9IO4UYNF0UQkBXlTMSw0CYsxv-GDkkI  
+
+Episode-001 - Using MySQL Trim() Function/(69 Video series)  (Channel: MySQL)   
+- https://www.youtube.com/playlist?list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN  
   
 Do THIS instead of watching endless tutorials - how I’d learn SQL FAST still in 2025 - (Channel: Agatha)     
 - https://www.youtube.com/watch?v=ITwW825L4zg
