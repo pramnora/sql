@@ -2,7 +2,7 @@
 Structured Query Language
 
 **Created**: *Sun 15th June 2025 15:36 PM GMT*  
-**Updated**: *Sat 21st June 2025 00:58 AM GMT*  
+**Updated**: *Tue 24th June 2025 21:14 PM GMT*  
 
 -----
 
@@ -40,6 +40,10 @@ MySql
 Visual Paradigm (diagramming databases)     
 - https://www.visual-paradigm.com
 - https://www.visual-paradigm.com/tutorials/  
+
+SQLitebrowser.org (an excellent browser which is easy to set up/use...)  
+- https://squlitebrowser.org  
+- https://squlitebrowser.org/dl  
 
 -----
  
