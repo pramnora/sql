@@ -42,8 +42,8 @@ Visual Paradigm (diagramming databases)
 - https://www.visual-paradigm.com/tutorials/  
 
 SQLitebrowser.org (an excellent browser which is easy to set up/use...)  
-- https://squlitebrowser.org  
-- https://squlitebrowser.org/dl  
+- https://sqlitebrowser.org  
+- https://sqlitebrowser.org/dl  
 
 -----
  
