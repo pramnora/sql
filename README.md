@@ -79,6 +79,13 @@ A step by step introduction to the concept of Databases and Introduction to SQL 
 
 -----
 
+Alison (FREE courses)  
+
+SQL for Beginners  
+- https://alison.com/topic/learn/144950/learning-outcomes  
+
+-----
+
 ## YouTube Videos
 
 
